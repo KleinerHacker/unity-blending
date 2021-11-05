@@ -1,5 +1,5 @@
 {
-  "name": "org.pcsoft.unity.blending",
+  "name": "org.pcsoft.blending",
   "version": "1.0.0",
   "displayName": "Unity Blending",
   "description": "Blending System for scene changes in Unity",
