@@ -1,0 +1,17 @@
+{
+  "name": "org.pcsoft.unity.blending",
+  "version": "1.0.0",
+  "displayName": "Unity Blending",
+  "description": "Blending System for scene changes in Unity",
+  "unity": "2021.1",
+  "keywords": [
+    "blending",
+    "scene",
+    "tooling"
+  ],
+  "author": {
+    "name": "Pfeiffer C Soft",
+    "email": "kl3in3rhack3r@gmail.com",
+    "url": "https://github.com/KleinerHacker/unity-blending"
+  }
+}
