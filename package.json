@@ -1,6 +1,6 @@
 {
   "name": "org.pcsoft.blending",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "Unity Blending",
   "description": "Blending System for scene changes in Unity",
   "unity": "2021.1",
@@ -9,6 +9,9 @@
     "scene",
     "tooling"
   ],
+  "dependencies": {
+    "org.pcsoft.animation": "1.0.1"
+  },
   "author": {
     "name": "Pfeiffer C Soft",
     "email": "kl3in3rhack3r@gmail.com",
