@@ -1,4 +1,4 @@
-﻿namespace UnityBlending.Runtime.blending.Scripts
+﻿namespace UnityBlending.Runtime.blending.Scripts.Runtime
 {
     internal static class UnityBlendingConstants
     {

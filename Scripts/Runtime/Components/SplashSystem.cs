@@ -1,9 +1,9 @@
 using System;
-using UnityAnimation.Runtime.animation.Scripts.Types;
-using UnityAnimation.Runtime.animation.Scripts.Utils;
+using UnityAnimation.Runtime.animation.Scripts.Runtime.Types;
+using UnityAnimation.Runtime.animation.Scripts.Runtime.Utils;
 using UnityEngine;
 
-namespace UnityBlending.Runtime.blending.Scripts.Components
+namespace UnityBlending.Runtime.blending.Scripts.Runtime.Components
 {
     public abstract class SplashSystem : MonoBehaviour
     {
