@@ -1,7 +1,7 @@
 using System;
 using UnityEngine;
 
-namespace UnityBlending.Runtime.blending.Scripts.Runtime.Components
+namespace UnityBlending.Runtime.scene_system.blending.Scripts.Runtime.Components
 {
     public abstract class BlendingSystem : MonoBehaviour
     {

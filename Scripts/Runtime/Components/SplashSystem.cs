@@ -3,7 +3,7 @@ using UnityAnimation.Runtime.animation.Scripts.Runtime.Types;
 using UnityAnimation.Runtime.animation.Scripts.Runtime.Utils;
 using UnityEngine;
 
-namespace UnityBlending.Runtime.blending.Scripts.Runtime.Components
+namespace UnityBlending.Runtime.scene_system.blending.Scripts.Runtime.Components
 {
     public abstract class SplashSystem : MonoBehaviour
     {
