@@ -1,9 +1,12 @@
 using System;
 using UnityEngine;
+using UnityExtension.Runtime.extension.Scripts.Runtime.Components.Singleton;
+using UnityExtension.Runtime.extension.Scripts.Runtime.Components.Singleton.Attributes;
 
 namespace UnityBlending.Runtime.scene_system.blending.Scripts.Runtime.Components
 {
-    public abstract class BlendingSystem : MonoBehaviour
+    [Singleton(Scope = SingletonScope.Application, Instance = SingletonInstance.HasExistingInstance)]
+    public abstract class BlendingSystem : SingletonBehavior<BlendingSystem>
     {
         public abstract float LoadingProgress { get; set; }
         
