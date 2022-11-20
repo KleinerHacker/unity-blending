@@ -1,17 +1,17 @@
 {
   "name": "org.pcsoft.blending",
-  "version": "2.1.1",
+  "version": "2.1.2",
   "displayName": "Unity Blending",
   "description": "Blending System for scene changes in Unity",
-  "unity": "2021.1",
+  "unity": "2021.3",
   "keywords": [
     "blending",
     "scene",
     "tooling"
   ],
   "dependencies": {
-    "org.pcsoft.animation": "1.2.3",
-    "org.pcsoft.extension": "1.7.4"
+    "org.pcsoft.animation": "1.2.4",
+    "org.pcsoft.extension": "1.8.2"
   },
   "author": {
     "name": "Pfeiffer C Soft",
