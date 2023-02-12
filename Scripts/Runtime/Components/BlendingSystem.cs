@@ -1,7 +1,6 @@
 using System;
-using UnityEngine;
-using UnityExtension.Runtime.extension.Scripts.Runtime.Components.Singleton;
-using UnityExtension.Runtime.extension.Scripts.Runtime.Components.Singleton.Attributes;
+using UnityBase.Runtime.@base.Scripts.Runtime.Components.Singleton;
+using UnityBase.Runtime.@base.Scripts.Runtime.Components.Singleton.Attributes;
 
 namespace UnityBlending.Runtime.scene_system.blending.Scripts.Runtime.Components
 {
